@@ -25,5 +25,10 @@ In this project, I am creating two API namely one POST API and other GET API.
 ```http
   POST /TrainingCenters
   You have to post the data in the JSON format
+```
 
+## FOR API Testing I Used 
+#### POSTMAN
 
+##Database 
+#### MSSQL
