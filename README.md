@@ -20,7 +20,7 @@ In this project, I am creating two API namely one POST API and other GET API.
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
-#### Get item
+#### To create a Training Centre Record 
 
 ```http
   POST /TrainingCenters
